@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/JsonParser/">
+    <Project Path="JsonParser/JsonParser.Tests/JsonParser.Tests.csproj" />
+    <Project Path="JsonParser/JsonParser/JsonParser.csproj" />
+  </Folder>
+</Solution>
